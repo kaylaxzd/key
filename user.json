@@ -1,7 +1,9 @@
 {
-  "users": [
-    {
-      "password": "shirodxs"
-    }
-  ]
+  "secretCode": "shiro",
+  "description": "Premium key for lynix MD",
+  "lastUpdated": "2025-02-06",
+  "author": "Shirodixs",
+  "status": "Active",
+  "license": "MIT",
+  "version": "2.0.0"
 }
